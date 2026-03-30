@@ -23,4 +23,4 @@ booth
 | VS Code extensions | Python language support              |
 | Desktop            | XFCE                                 |
 | AI                 | Claude Code                          |
-# BoothPythonExample
+
