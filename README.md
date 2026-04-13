@@ -1,6 +1,6 @@
 # Python Example
 
-Python development environment with Jupyter notebook support using the ipykernel.
+Python development environment with Jupyter notebook support using the ipykernel. (v0.41.0--rc12)
 
 **Stack:** Python 3.13, Jupyter Notebook, ipykernel, XFCE desktop, Claude Code
 

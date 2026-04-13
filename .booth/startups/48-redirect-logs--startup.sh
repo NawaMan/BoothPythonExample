@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir -p /opt/booth-logs
-ln -sf /opt/booth-logs/caddy.log /tmp/caddy.log
+# Caddy logs go directly to /tmp/caddy.log — no special directory needed.
